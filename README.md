@@ -1,4 +1,4 @@
-# Released-Decipherments
+# Lackadaisical Security Released Decipherments
 
 This repository serves as a central hub for all public decipherment projects from the Lackadaisical Security research initiative. Each project represents extensive linguistic fieldwork, methodological insights, and decoded research logs for various ancient and undeciphered writing systems.
 
