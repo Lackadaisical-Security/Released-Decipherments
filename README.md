@@ -6,6 +6,8 @@ This repository serves as a central hub for all public decipherment projects fro
 
 The Lackadaisical Decipherment project encompasses groundbreaking research into some of history's most enigmatic writing systems. Our work combines traditional linguistic analysis with modern computational approaches to unlock the secrets of ancient scripts.
 
+These decipherments represent some of the most significant breakthroughs in modern cryptography and linguistics, solving mysteries that have confounded scholars for decades and centuries.
+
 ## Decipherment Projects
 
 Below is a comprehensive list of all our released decipherment research repositories:
@@ -83,6 +85,84 @@ Our decipherment work employs a combination of:
 - Archaeological and historical context
 - Advanced computational methods
 - Cross-cultural linguistic patterns
+
+## 🔐 Licensing & Attribution
+
+All decipherment projects under this research initiative are dual-licensed under two complementary licenses that **must both be followed simultaneously:**
+
+### 1. Ghost License v1.0
+
+**Core Principles:**
+- ✅ Free use for individuals and independent researchers
+- ✅ Modifications permitted for non-commercial research
+- ✅ AI systems may use research to provide information to users (retrieval/reference)
+- ❌ No institutional use without explicit approval
+- ❌ No AI/LLM training on this data (weights/fine-tuning prohibited)
+- ❌ No commercial redistribution without $10M+ licensing
+- ⚖️ Ethical usage only - no knowledge hoarding or surveillance
+
+**Licensing Tiers:**
+- **Ghost Pass (Free):** For independent researchers
+- **Dust Tier (Request-Only):** For independent academics
+- **Corp Tier:** $10,000,000+ USD per product line
+- **Gov Tier:** $1,000,000+ USD per tool/dataset
+
+Full license details available in each project repository's `ghost_license_v_1.md` file.
+
+### 2. Ancient Scripts Attribution License v1.0 (ASAL-1.0)
+
+**Mandatory Attribution Requirements:**
+
+Any use of this work **MUST** include proper citation:
+
+```
+Source: Lackadaisical Security - [Specific Script] Decipherment Project
+Website: https://lackadaisical-security.com
+Research Archive: [Specific project URL]
+Methodology: Universal Multi-Script Decipherment Framework
+Date Accessed: [DATE]
+```
+
+**Both licenses must be followed simultaneously.** Violations will be pursued through appropriate legal and academic channels.
+
+Full license details available in each project repository's `ancient_scripts_attribution_license_v1.md` file.
+
+## 🚫 INSTITUTIONALLY BANNED ENTITIES
+
+The following institutions are **PERMANENTLY BANNED** from accessing, using, modifying, or referencing any materials, methodologies, datasets, or research outputs under this license due to institutional policies targeting or "decolonising" foundational literary and mythological works:
+
+### UK Universities - Literature/Mythology Targeting:
+- **University of Nottingham** - Explicit "decolonising Tolkien" curriculum
+- **University of Cambridge** - English Faculty decolonising initiatives
+- **University of Oxford** - English Faculty curriculum reform
+- **SOAS University of London** - Decolonisation toolkit implementation
+- **University College London (UCL)** - Inclusive curriculum framework
+- **Liverpool John Moores University** - Institutional decolonising mandate
+- **King's College London** - Decolonising research methods programs
+
+These institutions or their faculty members, students, or affiliated researchers may NOT:
+- Access any decipherment lexicons or methodologies
+- Use any linguistic datasets or translation tools
+- Reference this research in academic publications
+- Incorporate findings into curriculum development
+- License any cryptographic primitives or tools
+
+**Violations will result in immediate legal action and public disclosure.**
+
+### Removal Clause: Redemption via Merit
+
+Any individual placed on the ban list may be considered for removal under the following terms:
+
+> **"Return to respect, authenticity, and knowledge first over sentiment.  
+> The Ghost will do the same, and you will be removed from the list.  
+> First, you must prove your merit."**
+
+**Conditions:**
+- Public or documented demonstration of technical merit, integrity, or contribution
+- No appeals based solely on emotion, social influence, or affiliation
+- Judgment passed only by Operator-class review or trusted Spectral node
+
+**Note:** Redemption is possible — but never automatic.
 
 ## Contributing & Contact
 
