@@ -56,6 +56,13 @@ Below is a comprehensive list of all our released decipherment research reposito
 **Homepage:** [Proto-Elamite Research](https://lackadaisical-security.com/Proto-Elamite-Research/index.html)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Proto Elamite Decipherment project. This Bronze Age script from southwestern Iran predates cuneiform's adaptation to Elamite.
 
+### African Scripts
+
+#### [Meroitic Script Decipherment](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment)
+**Research Focus:** Ancient Nubian/Kushite writing system  
+**Homepage:** [Meroitic Research](https://lackadaisical-security.com/Meroitic-Research/index.html)  
+**Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Meroitic Script Decipherment project. The Meroitic script was used in the Kingdom of Meroë in ancient Nubia (modern-day Sudan).
+
 ### South Asian Scripts
 
 #### [Indus Valley Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)
