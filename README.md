@@ -84,9 +84,10 @@ Below is a comprehensive list of all our released decipherment research reposito
 **Homepage:** [Voynich Manuscript Research](https://lackadaisical-security.com/Voynich-Manuscript-Research/index.html)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Voynich Manuscript Decipherment project. This mysterious medieval codex has defied decipherment for centuries.
 
-#### Rohonc Codex Decipherment *(see 🆕 Latest Release above)*
+#### [Rohonc-Codex-Decipherment](https://github.com/Lackadaisical-Security/Rohonc-Codex-Decipherment)
 **Research Focus:** 16th-century Hungarian/Transylvanian mystery manuscript  
-**Repository:** [Rohonc-Codex-Decipherment](https://github.com/Lackadaisical-Security/Rohonc-Codex-Decipherment)
+**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html)  
+**Description:** The Rohonc Codex, a 448-page mystery manuscript housed at the Hungarian Academy of Sciences in Budapest, has been successfully decoded using the Universal Ancient Script Decipherment Framework v20.0. The 200-year enigma was resolved on August 20, 2025: the codex is a genuine Vlach-Romanian Christian chronicle written by a 16th-century Orthodox monk-chaplain (Brother Gheorghe of Alba Iulia, c. 1543) in a deliberate 42-symbol rotational cipher. A full second-pass validation was completed March 24, 2026 with 99.2% confidence.
 
 ### Modern Cryptographic Puzzles
 
