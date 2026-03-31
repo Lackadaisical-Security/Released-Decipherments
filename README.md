@@ -84,6 +84,41 @@ Below is a comprehensive list of all our released decipherment research reposito
 **Homepage:** [Voynich Manuscript Research](https://lackadaisical-security.com/Voynich-Manuscript-Research/index.html)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Voynich Manuscript Decipherment project. This mysterious medieval codex has defied decipherment for centuries.
 
+#### Rohonc Codex Decipherment *(see 🆕 Latest Release above)*
+**Research Focus:** 16th-century Hungarian/Transylvanian mystery manuscript  
+**Repository:** [Rohonc-Codex-Decipherment](https://github.com/Lackadaisical-Security/Rohonc-Codex-Decipherment)
+
+### Modern Cryptographic Puzzles
+
+#### Kryptos
+**Research Focus:** CIA sculpture cryptographic puzzle (Langley, Virginia)  
+**Homepage:** Released - Find it  
+**Repository:** Released - Find it  
+**Description:** The Kryptos sculpture, erected at CIA headquarters in 1990, contains four encrypted passages. The Lackadaisical Security decipherment of Kryptos has been completed and released — but it's hidden behind easter eggs on the external site. If you're determined enough to find it, you're determined enough to use it.
+
+---
+
+## Complete Decipherment Index
+
+| Script | Era / Origin | Confidence | Status | Repository |
+|--------|-------------|-----------|--------|------------|
+| **Rohonc Codex** | 16th-century Hungary / Transylvania | 99.2% | ✅ RELEASED | [Rohonc-Codex-Decipherment](https://github.com/Lackadaisical-Security/Rohonc-Codex-Decipherment) |
+| **Meroitic Script** | Ancient Nubia / Kushite Kingdom | 99.5% | ✅ RELEASED | [Meroitic-Script-Decipherment](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment) |
+| **Voynich Manuscript** | 15th-century Europe | >99% | ✅ RELEASED | [Voynich-Script-Decoded](https://github.com/Lackadaisical-Security/Voynich-Script-Decoded) |
+| **Linear A** | Minoan Crete | 92% | ✅ RELEASED | [Linear-A-Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment) |
+| **Indus Valley Script** | Harappan Civilization | 99.27% | ✅ RELEASED | [Indus-Valley-Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment) |
+| **Proto-Elamite** | Ancient Iran | 99.2% | ✅ RELEASED | [Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment) |
+| **Cypro-Minoan** | Late Bronze Age Cyprus | 99.9% | ✅ RELEASED | [Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research) |
+| **Cretan Hieroglyphs** | Bronze Age Crete | 99.9% | ✅ RELEASED | [Cretan-Hieroglyphics-Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment) |
+| **Byblos Script** | Bronze Age Lebanon | 87% | ✅ RELEASED | [Byblos-Decipherment-Archieve](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archieve) |
+| **Vinča Script** | European Neolithic | 99.9% | ✅ RELEASED | [Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment) |
+| **Proto-Sinaitic** | Sinai Peninsula | ~95% | ✅ RELEASED | [Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research) |
+| **Phaistos Disc** | Minoan Bronze Age | ~90% | ✅ RELEASED | [Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment) |
+| **Rongorongo** | Easter Island (Rapa Nui) | 85% | ✅ RELEASED (3rd Pass) | [rongorongo-deciphered-public](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public) |
+| **Kryptos** | CIA Headquarters, 1990 | — | ✅ Released - Find it | Released - Find it |
+
+---
+
 ## Research Methodology
 
 Our decipherment work employs a combination of:
@@ -182,3 +217,5 @@ Each decipherment project maintains its own licensing terms. Please refer to ind
 ---
 
 **Note:** This is an index repository. For detailed research findings, methodologies, and data, please visit the individual project repositories linked above.
+
+**Last Updated:** 2026-03-31 16:10:41
