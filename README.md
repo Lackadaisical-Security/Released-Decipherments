@@ -19,6 +19,11 @@ Below is a comprehensive list of all our released decipherment research reposito
 **Homepage:** [Vinča Research](https://lackadaisical-security.com/Vinca-Research/index.html)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Vinča Decipherment project. The Vinča symbols represent one of the earliest forms of European proto-writing.
 
+#### [Tartaria Tablets Decipherment](https://github.com/Lackadaisical-Security/Tartaria-Tablets-Decipherment)
+**Research Focus:** European Neolithic proto-writing (c. 5,300 BCE, Romania)  
+**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html)  
+**Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Tartaria Tablets Decipherment project. Three clay tablets from Tărtăria, Transylvania, Romania — dated to the Vinča-Turdaş Culture (5,500–5,300 BCE) — represent the world's oldest known writing system. The decipherment reveals four semantic domains: ritual, administrative, agricultural, and calendrical.
+
 #### [Phaistos Disc Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment)
 **Research Focus:** Minoan Bronze Age artifact  
 **Homepage:** [Phaistos Disc Research](https://lackadaisical-security.com/Phaistos-Disc-Research/index.html)  
@@ -41,7 +46,7 @@ Below is a comprehensive list of all our released decipherment research reposito
 
 ### Ancient Near Eastern Scripts
 
-#### [Byblos Decipherment Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archieve)
+#### [Byblos Decipherment Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)
 **Research Focus:** Bronze Age syllabic script from Lebanon  
 **Homepage:** [Byblos Script Research](https://lackadaisical-security.com/Byblos-Script-Research/index.html)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Byblos Script Decipherment project. The Byblos syllabary remains one of the Mediterranean's linguistic mysteries.
@@ -111,7 +116,8 @@ Below is a comprehensive list of all our released decipherment research reposito
 | **Proto-Elamite** | Ancient Iran | 99.2% | ✅ RELEASED | [Proto-Elamite-Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment) |
 | **Cypro-Minoan** | Late Bronze Age Cyprus | 99.9% | ✅ RELEASED | [Cypro-Minoan-Research](https://github.com/Lackadaisical-Security/Cypro-Minoan-Research) |
 | **Cretan Hieroglyphs** | Bronze Age Crete | 99.9% | ✅ RELEASED | [Cretan-Hieroglyphics-Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment) |
-| **Byblos Script** | Bronze Age Lebanon | 87% | ✅ RELEASED | [Byblos-Decipherment-Archieve](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archieve) |
+| **Byblos Script** | Bronze Age Lebanon | 87% | ✅ RELEASED | [Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive) |
+| **Tartaria Tablets** | European Neolithic / Romania (c. 5,300 BCE) | 99.8% | ✅ RELEASED | [Tartaria-Tablets-Decipherment](https://github.com/Lackadaisical-Security/Tartaria-Tablets-Decipherment) |
 | **Vinča Script** | European Neolithic | 99.9% | ✅ RELEASED | [Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment) |
 | **Proto-Sinaitic** | Sinai Peninsula | ~95% | ✅ RELEASED | [Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research) |
 | **Phaistos Disc** | Minoan Bronze Age | ~90% | ✅ RELEASED | [Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment) |
@@ -219,4 +225,4 @@ Each decipherment project maintains its own licensing terms. Please refer to ind
 
 **Note:** This is an index repository. For detailed research findings, methodologies, and data, please visit the individual project repositories linked above.
 
-**Last Updated:** 2026-03-31 16:10:41
+**Last Updated:** 2026-05-05 02:07:13
