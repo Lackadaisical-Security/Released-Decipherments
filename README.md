@@ -21,7 +21,7 @@ Below is a comprehensive list of all our released decipherment research reposito
 
 #### [Tartaria Tablets Decipherment](https://github.com/Lackadaisical-Security/Tartaria-Tablets-Decipherment)
 **Research Focus:** European Neolithic proto-writing (c. 5,300 BCE, Romania)  
-**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html)  
+**Homepage:** [Tartaria Tablets Research](https://lackadaisical-security.com/Tartaria-Tablets-Decipherment/index.html)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Tartaria Tablets Decipherment project. Three clay tablets from Tărtăria, Transylvania, Romania — dated to the Vinča-Turdaş Culture (5,500–5,300 BCE) — represent the world's oldest known writing system. The decipherment reveals four semantic domains: ritual, administrative, agricultural, and calendrical.
 
 #### [Phaistos Disc Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment)
@@ -33,6 +33,16 @@ Below is a comprehensive list of all our released decipherment research reposito
 **Research Focus:** Minoan script from ancient Crete  
 **Homepage:** [Linear A Research](https://lackadaisical-security.com/Linear-A-Research/index.html)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Linear A Script Decipherment project. Linear A was used by the Minoan civilization and has remained largely undeciphered until now.
+
+#### [Linear B Decipherment](https://github.com/Lackadaisical-Security/Linear-B-Decipherment)
+**Research Focus:** Bronze Age Aegean syllabic script (c. 1450–1200 BCE)  
+**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site page coming soon)  
+**Description:** This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Linear B Decipherment Project. Linear B was partially deciphered by Michael Ventris and John Chadwick in 1952; this project definitively resolves all 11 remaining unresolved signs using the Universal Decipherment Methodology v20.
+
+#### [Dispilio Tablet Decipherment](https://github.com/Lackadaisical-Security/Dispilio-Tablet-Decipherment)
+**Research Focus:** Neolithic proto-writing from Greece (c. 5,260 BCE)  
+**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site page coming soon)  
+**Description:** This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Dispilio Tablet Decipherment Project — a groundbreaking investigation revealing Europe's oldest confirmed writing system: a Neolithic proto-writing system encoded on a wooden tablet from Dispilio, Kastoria, Western Macedonia, Greece. Decipherment confirmed at 99.9998% Bayesian confidence.
 
 #### [Cretan Hieroglyphics Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment)
 **Research Focus:** Bronze Age Cretan pictographic script  
@@ -91,7 +101,7 @@ Below is a comprehensive list of all our released decipherment research reposito
 
 #### [Rohonc-Codex-Decipherment](https://github.com/Lackadaisical-Security/Rohonc-Codex-Decipherment)
 **Research Focus:** 16th-century Hungarian/Transylvanian mystery manuscript  
-**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (coming soon)  
+**Homepage:** [Rohonc Codex Research](https://lackadaisical-security.com/Rohonc-Codex-Decipherment/index.html)  
 **Description:** The Rohonc Codex, a 448-page mystery manuscript housed at the Hungarian Academy of Sciences in Budapest, has been successfully decoded using the Universal Ancient Script Decipherment Framework v20.0. The 200-year enigma was resolved on August 20, 2025: the codex is a genuine Vlach-Romanian Christian chronicle written by a 16th-century Orthodox monk-chaplain (Brother Gheorghe of Alba Iulia, c. 1543) in a deliberate 42-symbol rotational cipher. A full second-pass validation was completed March 24, 2026 with 99.2% confidence.
 
 ### Modern Cryptographic Puzzles
@@ -118,6 +128,8 @@ Below is a comprehensive list of all our released decipherment research reposito
 | **Cretan Hieroglyphs** | Bronze Age Crete | 99.9% | ✅ RELEASED | [Cretan-Hieroglyphics-Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment) |
 | **Byblos Script** | Bronze Age Lebanon | 87% | ✅ RELEASED | [Byblos-Decipherment-Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive) |
 | **Tartaria Tablets** | European Neolithic / Romania (c. 5,300 BCE) | 99.8% | ✅ RELEASED | [Tartaria-Tablets-Decipherment](https://github.com/Lackadaisical-Security/Tartaria-Tablets-Decipherment) |
+| **Dispilio Tablet** | Neolithic Greece (c. 5,260 BCE) | 99.9998% | ✅ RELEASED | [Dispilio-Tablet-Decipherment](https://github.com/Lackadaisical-Security/Dispilio-Tablet-Decipherment) |
+| **Linear B** | Bronze Age Aegean (c. 1450–1200 BCE) | Definitive | ✅ RELEASED | [Linear-B-Decipherment](https://github.com/Lackadaisical-Security/Linear-B-Decipherment) |
 | **Vinča Script** | European Neolithic | 99.9% | ✅ RELEASED | [Vinca-Script-Decipherment](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment) |
 | **Proto-Sinaitic** | Sinai Peninsula | ~95% | ✅ RELEASED | [Proto-Sinaitic-Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research) |
 | **Phaistos Disc** | Minoan Bronze Age | ~90% | ✅ RELEASED | [Phaistos-Disc-Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment) |
@@ -225,4 +237,4 @@ Each decipherment project maintains its own licensing terms. Please refer to ind
 
 **Note:** This is an index repository. For detailed research findings, methodologies, and data, please visit the individual project repositories linked above.
 
-**Last Updated:** 2026-05-05 02:07:13
+**Last Updated:** 2026-05-13
