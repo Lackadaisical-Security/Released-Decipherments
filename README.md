@@ -36,13 +36,18 @@ Below is a comprehensive list of all our released decipherment research reposito
 
 #### [Linear B Decipherment](https://github.com/Lackadaisical-Security/Linear-B-Decipherment)
 **Research Focus:** Bronze Age Aegean syllabic script (c. 1450–1200 BCE)  
-**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site page coming soon)  
+**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site html page coming soon)  
 **Description:** This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Linear B Decipherment Project. Linear B was partially deciphered by Michael Ventris and John Chadwick in 1952; this project definitively resolves all 11 remaining unresolved signs using the Universal Decipherment Methodology v20.
 
 #### [Dispilio Tablet Decipherment](https://github.com/Lackadaisical-Security/Dispilio-Tablet-Decipherment)
 **Research Focus:** Neolithic proto-writing from Greece (c. 5,260 BCE)  
-**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site page coming soon)  
+**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site html pages coming soon)  
 **Description:** This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Dispilio Tablet Decipherment Project — a groundbreaking investigation revealing Europe's oldest confirmed writing system: a Neolithic proto-writing system encoded on a wooden tablet from Dispilio, Kastoria, Western Macedonia, Greece. Decipherment confirmed at 99.9998% Bayesian confidence.
+
+#### [Gradešnica Tablet Decipherment](https://github.com/Lackadaisical-Security/Gradesnica-Tablet-Decipherment)
+**Research Focus:** Neolithic proto-writing from Serbia and the greater Danubian-Substrate (c. 5500-4500 BCE)
+**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site html pages coming soon)
+**Description:** This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Gradešnica Tablet Decipherment Project - definitively deciphered as an administrative-ritual record from the Balkan-Danubian writing tradition (~5000-4500 BCE). The text records a water offering performed by an authority figure at a sacred location, with full administrative closure and seal validation.
 
 #### [Cretan Hieroglyphics Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment)
 **Research Focus:** Bronze Age Cretan pictographic script  
