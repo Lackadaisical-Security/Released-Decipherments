@@ -22,11 +22,13 @@ Below is a comprehensive list of all our released decipherment research reposito
 #### [Tartaria Tablets Decipherment](https://github.com/Lackadaisical-Security/Tartaria-Tablets-Decipherment)
 **Research Focus:** European Neolithic proto-writing (c. 5,300 BCE, Romania)  
 **Homepage:** [Tartaria Tablets Research](https://lackadaisical-security.com/Tartaria-Tablets-Decipherment/index.html)  
+**Academia Paper:** [Phonetic Emergence and Syntactic Architecture in the Tartaria Corpus: A Cryptographic and Linguistic Analysis](https://www.academia.edu/167029097/Phonetic_Emergence_and_Syntactic_Architecture_in_the_Tartaria_Corpus_A_Cryptographic_and_Linguistic_Analysis)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Tartaria Tablets Decipherment project. Three clay tablets from Tărtăria, Transylvania, Romania — dated to the Vinča-Turdaş Culture (5,500–5,300 BCE) — represent the world's oldest known writing system. The decipherment reveals four semantic domains: ritual, administrative, agricultural, and calendrical.
 
 #### [Phaistos Disc Decipherment](https://github.com/Lackadaisical-Security/Phaistos-Disc-Decipherment)
 **Research Focus:** Minoan Bronze Age artifact  
 **Homepage:** [Phaistos Disc Research](https://lackadaisical-security.com/Phaistos-Disc-Research/index.html)  
+**Academia Paper:** [Epigraphic and Computational Synthesis of the Phaistos Disc: A Reproduction and Verification of the Universal Multi-Script Framework](https://www.academia.edu/167987363/Epigraphic_and_Computational_Synthesis_of_the_Phaistos_Disc_A_Reproduction_and_Verification_of_the_Universal_Multi_Script_Framework)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Phaistos Disc Decipherment project. This enigmatic clay disc from Crete features a unique spiral arrangement of stamped symbols.
 
 #### [Linear A Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)
@@ -37,17 +39,20 @@ Below is a comprehensive list of all our released decipherment research reposito
 #### [Linear B Decipherment](https://github.com/Lackadaisical-Security/Linear-B-Decipherment)
 **Research Focus:** Bronze Age Aegean syllabic script (c. 1450–1200 BCE)  
 **Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site html page coming soon)  
+**Academia Paper:** [Complete Resolution of the Linear B Syllabogram Inventory: An Exhaustive Application of Systematic Mega-Correlation](https://www.academia.edu/166255676/Complete_Resolution_of_the_Linear_B_Syllabogram_Inventory_An_Exhaustive_Application_of_Systematic_Mega_Correlation)  
 **Description:** This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Linear B Decipherment Project. Linear B was partially deciphered by Michael Ventris and John Chadwick in 1952; this project definitively resolves all 11 remaining unresolved signs using the Universal Decipherment Methodology v20.
 
 #### [Dispilio Tablet Decipherment](https://github.com/Lackadaisical-Security/Dispilio-Tablet-Decipherment)
 **Research Focus:** Neolithic proto-writing from Greece (c. 5,260 BCE)  
 **Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site html pages coming soon)  
-**Description:** This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Dispilio Tablet Decipherment Project — a groundbreaking investigation revealing Europe's oldest confirmed writing system: a Neolithic proto-writing system encoded on a wooden tablet from Dispilio, Kastoria, Western Macedonia, Greece. Decipherment confirmed at 99.9998% Bayesian confidence.
+**Academia Paper:** [Computational Decipherment and Phonetic Transition Mapping of the Dispilio Tablet](https://www.academia.edu/170168448/Computational_Decipherment_and_Phonetic_Transition_Mapping_of_the_Dispilio_Tablet)  
+**Description:** This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Dispilio Tablet Decipherment Project — a groundbreaking investigation revealing Europe's oldest confirmed writing system: a Neolithic proto-writing system encoded on a wooden tablet from Dispilio, Kastoria, Western Macedonia, Greece. Decipherment confirmed at 99.9998% Bayesian confidence.  
 
 #### [Gradešnica Tablet Decipherment](https://github.com/Lackadaisical-Security/Gradesnica-Tablet-Decipherment)
-**Research Focus:** Neolithic proto-writing from Serbia and the greater Danubian-Substrate (c. 5500-4500 BCE)
-**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site html pages coming soon)
-**Description:** This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Gradešnica Tablet Decipherment Project - definitively deciphered as an administrative-ritual record from the Balkan-Danubian writing tradition (~5000-4500 BCE). The text records a water offering performed by an authority figure at a sacred location, with full administrative closure and seal validation.
+**Research Focus:** Neolithic proto-writing from Serbia and the greater Danubian-Substrate (c. 5500-4500 BCE)  
+**Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html) (site html pages coming soon)  
+**Academia Paper:** [Computational Decipherment and Cryptanalytic Reconstruction of the Danubian Substrate: A Multi-Node Linguistic Synthesis Introduction: Recontextualizing the Antiquity of European Literacy](https://www.academia.edu/170169062/Computational_Decipherment_and_Cryptanalytic_Reconstruction_of_the_Danubian_Substrate_A_Multi_Node_Linguistic_Synthesis_Introduction_Recontextualizing_the_Antiquity_of_European_Literacy)  
+**Description:** This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Gradešnica Tablet Decipherment Project - definitively deciphered as an administrative-ritual record from the Balkan-Danubian writing tradition (~5000-4500 BCE). The text records a water offering performed by an authority figure at a sacred location, with full administrative closure and seal validation.  
 
 #### [Cretan Hieroglyphics Decipherment](https://github.com/Lackadaisical-Security/Cretan-Hieroglyphics-Decipherment)
 **Research Focus:** Bronze Age Cretan pictographic script  
@@ -63,7 +68,9 @@ Below is a comprehensive list of all our released decipherment research reposito
 
 #### [Byblos Decipherment Archive](https://github.com/Lackadaisical-Security/Byblos-Decipherment-Archive)
 **Research Focus:** Bronze Age syllabic script from Lebanon  
-**Homepage:** [Byblos Script Research](https://lackadaisical-security.com/Byblos-Script-Research/index.html)  
+**Homepage:** [Byblos Script Research](https://lackadaisical-security.com/Byblos-Script-Research/index.html)
+
+**Academia Paper:** [Comprehensive Computational Decipherment and Epigraphic Analysis of the Byblos Syllabary](https://www.academia.edu/166021441/Comprehensive_Computational_Decipherment_and_Epigraphic_Analysis_of_the_Byblos_Syllabary)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Byblos Script Decipherment project. The Byblos syllabary remains one of the Mediterranean's linguistic mysteries.
 
 #### [Proto-Sinaitic Research](https://github.com/Lackadaisical-Security/Proto-Sinaitic-Research)
@@ -74,13 +81,15 @@ Below is a comprehensive list of all our released decipherment research reposito
 #### [Proto-Elamite Decipherment](https://github.com/Lackadaisical-Security/Proto-Elamite-Decipherment)
 **Research Focus:** Ancient Iranian writing system  
 **Homepage:** [Proto-Elamite Research](https://lackadaisical-security.com/Proto-Elamite-Research/index.html)  
-**Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Proto Elamite Decipherment project. This Bronze Age script from southwestern Iran predates cuneiform's adaptation to Elamite.
+**Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Proto Elamite Decipherment project. This Bronze Age script from southwestern Iran predates cuneiform's adaptation to Elamite.  
 
 ### African Scripts
 
 #### [Meroitic Script Decipherment](https://github.com/Lackadaisical-Security/Meroitic-Script-Decipherment)
 **Research Focus:** Ancient Nubian/Kushite writing system  
 **Homepage:** [Meroitic Research](https://lackadaisical-security.com/Meroitic-Research/index.html)  
+**Academia Papers:** [Re Evaluating the Meroitic Corpus Computational Decipherment Titulary Course Corrections and External Verification](https://www.academia.edu/165714895/Re_Evaluating_the_Meroitic_Corpus_Computational_Decipherment_Titulary_Course_Corrections_and_External_Verification)  
+**Additional Paper:** [Epigraphic and Historiographical Synthesis of the Meroitic-Roman War: A Comprehensive Analysis of Queen Amanirenas, Prince Akinidad, and the Hamadab Stelae](https://www.academia.edu/165745986/Epigraphic_and_Historiographical_Synthesis_of_the_Meroitic_Roman_War_A_Comprehensive_Analysis_of_Queen_Amanirenas_Prince_Akinidad_and_the_Hamadab_Stelae)  
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Meroitic Script Decipherment project. The Meroitic script was used in the Kingdom of Meroë in ancient Nubia (modern-day Sudan).
 
 ### South Asian Scripts
@@ -88,26 +97,28 @@ Below is a comprehensive list of all our released decipherment research reposito
 #### [Indus Valley Decipherment](https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment)
 **Research Focus:** Harappan civilization script  
 **Homepage:** [Indus Valley Research](https://lackadaisical-security.com/Indus-Valley-Research/index.html)  
-**Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Indus Valley Decipherment project. The Indus script represents one of archaeology's greatest unsolved puzzles.
+**Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Indus Valley Decipherment project. The Indus script represents one of archaeology's greatest unsolved puzzles.  
 
 ### Pacific Scripts
 
 #### [Rongorongo Deciphered (Public)](https://github.com/Lackadaisical-Security/rongorongo-deciphered-public)
 **Research Focus:** Easter Island (Rapa Nui) glyphic script  
 **Homepage:** [Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html)  
-**Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Rongorongo decipherment project. Rongorongo is one of the few independent inventions of writing in human history.
+**Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Rongorongo decipherment project. Rongorongo is one of the few independent inventions of writing in human history.  
 
 ### Medieval & Renaissance Scripts
 
 #### [Voynich Script Decoded](https://github.com/Lackadaisical-Security/Voynich-Script-Decoded)
 **Research Focus:** 15th-century illustrated manuscript  
 **Homepage:** [Voynich Manuscript Research](https://lackadaisical-security.com/Voynich-Manuscript-Research/index.html)  
-**Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Voynich Manuscript Decipherment project. This mysterious medieval codex has defied decipherment for centuries.
+**Academia Paper:** [Computational Reverse-Engineering and Cryptanalytic Validation of the Voynich Polyglot Cipher Algorithm by LS](https://www.academia.edu/167990970/Computational_Reverse_Engineering_and_Cryptanalytic_Validation_of_the_Voynich_Polyglot_Cipher_Algorithm_by_LS)  
+**Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Voynich Manuscript Decipherment project. This mysterious medieval codex has defied decipherment for centuries.  
 
 #### [Rohonc-Codex-Decipherment](https://github.com/Lackadaisical-Security/Rohonc-Codex-Decipherment)
 **Research Focus:** 16th-century Hungarian/Transylvanian mystery manuscript  
 **Homepage:** [Rohonc Codex Research](https://lackadaisical-security.com/Rohonc-Codex-Decipherment/index.html)  
-**Description:** The Rohonc Codex, a 448-page mystery manuscript housed at the Hungarian Academy of Sciences in Budapest, has been successfully decoded using the Universal Ancient Script Decipherment Framework v20.0. The 200-year enigma was resolved on August 20, 2025: the codex is a genuine Vlach-Romanian Christian chronicle written by a 16th-century Orthodox monk-chaplain (Brother Gheorghe of Alba Iulia, c. 1543) in a deliberate 42-symbol rotational cipher. A full second-pass validation was completed March 24, 2026 with 99.2% confidence.
+**Academia Paper:** [The Rohonc Codex: A Reproducible Decipherment by Lackadaisical Security](https://www.academia.edu/165307764/The_Rohonc_Codex_A_Reproducible_Decipherment_by_Lackadaisical_Security)  
+**Description:** The Rohonc Codex, a 448-page mystery manuscript housed at the Hungarian Academy of Sciences in Budapest, has been successfully decoded using the Universal Ancient Script Decipherment Framework v20.0. The 200-year enigma was resolved on August 20, 2025: the codex is a genuine Vlach-Romanian Christian chronicle written by a 16th-century Orthodox monk-chaplain (Brother Gheorghe of Alba Iulia, c. 1543) in a deliberate 42-symbol rotational cipher. A full second-pass validation was completed March 24, 2026 with 99.2% confidence.  
 
 ### Modern Cryptographic Puzzles
 
