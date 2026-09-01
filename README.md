@@ -33,7 +33,8 @@ Below is a comprehensive list of all our released decipherment research reposito
 
 #### [Linear A Decipherment](https://github.com/Lackadaisical-Security/Linear-A-Decipherment)
 **Research Focus:** Minoan script from ancient Crete  
-**Homepage:** [Linear A Research](https://lackadaisical-security.com/Linear-A-Research/index.html)  
+**Homepage:** [Linear A Research](https://lackadaisical-security.com/Linear-A-Research/index.html)
+**Academia Paper:** [Comprehensive Epigraphic and Computational Analysis of the Linear A Decipherment by LS](https://www.academia.edu/172806422/Comprehensive_Epigraphic_and_Computational_Analysis_of_the_Linear_A_Decipherment_by_LS)
 **Description:** This repository preserves the decoded research logs, linguistic fieldwork, and methodological insights behind the Lackadaisical Security Linear A Script Decipherment project. Linear A was used by the Minoan civilization and has remained largely undeciphered until now.
 
 #### [Linear B Decipherment](https://github.com/Lackadaisical-Security/Linear-B-Decipherment)
